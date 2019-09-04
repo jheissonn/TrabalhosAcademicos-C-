@@ -1,0 +1,11 @@
+C:\Users\JET\Desktop\mazec\mazec\bin\Debug\mazec.exe.config
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\labirintoGráfico\C#\bin\Debug\mazec.exe.config
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\labirintoGráfico\C#\bin\Debug\mazec.exe
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\labirintoGráfico\C#\bin\Debug\mazec.pdb
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\labirintoGráfico\C#\obj\Debug\mazec.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\labirintoGráfico\C#\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\labirintoGráfico\C#\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\labirintoGráfico\C#\obj\Debug\mazec.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\labirintoGráfico\C#\obj\Debug\mazec.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\labirintoGráfico\C#\obj\Debug\mazec.exe
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\labirintoGráfico\C#\obj\Debug\mazec.pdb

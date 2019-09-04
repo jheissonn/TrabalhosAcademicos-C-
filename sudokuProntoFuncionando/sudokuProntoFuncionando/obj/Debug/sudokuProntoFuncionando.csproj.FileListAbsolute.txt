@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\sudokuProntoFuncionando\sudokuProntoFuncionando\bin\Debug\sudokuProntoFuncionando.exe.config
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\sudokuProntoFuncionando\sudokuProntoFuncionando\bin\Debug\sudokuProntoFuncionando.exe
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\sudokuProntoFuncionando\sudokuProntoFuncionando\bin\Debug\sudokuProntoFuncionando.pdb
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\sudokuProntoFuncionando\sudokuProntoFuncionando\obj\Debug\sudokuProntoFuncionando.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\sudokuProntoFuncionando\sudokuProntoFuncionando\obj\Debug\sudokuProntoFuncionando.Form1.resources
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\sudokuProntoFuncionando\sudokuProntoFuncionando\obj\Debug\sudokuProntoFuncionando.Properties.Resources.resources
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\sudokuProntoFuncionando\sudokuProntoFuncionando\obj\Debug\sudokuProntoFuncionando.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\sudokuProntoFuncionando\sudokuProntoFuncionando\obj\Debug\sudokuProntoFuncionando.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\sudokuProntoFuncionando\sudokuProntoFuncionando\obj\Debug\sudokuProntoFuncionando.exe
+C:\Users\USER\Desktop\Matéria terceiro periodo\EstruturaDeDados\sudokuProntoFuncionando\sudokuProntoFuncionando\obj\Debug\sudokuProntoFuncionando.pdb
